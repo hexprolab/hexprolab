@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @hexprolab
 - 📱 Mobile phone repair shop
-- 👨‍💻 Full-Stack Web Developer with PHP experience with our own hosting
+- 👨‍💻 Full-Stack Web Developer
+- 🖥 Hosting
 - 📫 How to reach me email: info@hex.hr  phone: +385 91 617 0048
 
 **HEX PRO LAB d.o.o.** was founded in 2021.
